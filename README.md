@@ -4,11 +4,11 @@ Welcome to my test!
 
 ## Directories
 
-- [IT client communication ](./IT client communication/README.md)
+- [IT client communication](./IT%20client%20communication/README.md)
 - [PHP object  ](./PHP%20object%20/README.md)
 - [Array](./Array/README.md)
-- [MVC Structure ](./MVC Structure/README.md)
-- [PHP code ](./PHP code/README.md)
+- [MVC Structure ](./MVC%20Structure/README.md)
+- [PHP code ](./PHP%20code/README.md)
 
 
 ## Contributing
