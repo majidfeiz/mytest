@@ -1,0 +1,21 @@
+{
+    "name": "sermajid/itclientcommunication",
+    "description": "Generate (no need to display) a 20 x 52 table where each value is drawn from a standard uniform distribution. \nThe 20 rows represent 20 individuals and the 52 columns represent 52 weeks (one year)\nFor each individual, compute the cumulative sums across columns from inception until the given week\nCreate and show in a google sheet the respective chart with 20 increasing lines, label the axes “Week” and “Cumulative sum”.",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Sermajid\\itclientcommunication\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Majid Feyzi",
+            "email": "sermajid3@yahoo.com"
+        }
+    ],
+    "require": {
+        "google/apiclient": "^2.10"
+    }
+
+
+}
