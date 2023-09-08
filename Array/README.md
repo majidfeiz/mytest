@@ -26,7 +26,7 @@ $strawberryCount = isset($counts['strawberry']) ? $counts['strawberry'] : 0;
 echo "The item 'strawberry' appears $strawberryCount times in the array.";
 ```
 
-##Usage
+## Usage
 
 1. Modify the $array variable to contain your nested array data.
 2. Run the PHP script:

@@ -20,8 +20,8 @@ Before you can run this project, you'll need the following:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/majidfeiz/google-sheets-php-project.git
-   cd google-sheets-php-project
+   git clone https://github.com/majidfeiz/mytest.git
+   cd IT client communication
    ```
 
 2. Install project dependencies using Composer:   
@@ -38,7 +38,7 @@ Before you can run this project, you'll need the following:
 putenv('GOOGLE_APPLICATION_CREDENTIALS=/path/to/your-credentials-file.json');
 ```
 
-##Usage
+## Usage
 
 1. Run the PHP script to generate data, compute cumulative sums, export data to Google Sheets, and create a line chart:
 
@@ -48,5 +48,5 @@ php index.php
 
 2. After running the script, you'll find the data exported to your Google Sheets document, and a line chart created.
 
-##Customization
+## Customization
 You can customize the data generation, chart settings, and data export by modifying the PHP script (index.php) to suit your specific requirements.

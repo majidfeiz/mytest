@@ -27,7 +27,7 @@ www.domain.it/folder1/: Folder 1
 
 www.domain.it/folder2/: Folder 2
 
-##Usage
+## Usage
 
 - The project follows a simple MVC pattern to display different content for each URL.
 - The PageController.php file handles the logic for each URL, and the view.php file contains the HTML content.
